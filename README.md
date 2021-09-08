@@ -6,6 +6,6 @@
 
 [Project 3 - My Store](https://github.com/dattgoswami/my-store) - complete
 
-[Project 4 - Hosting a Full Stack Application](https://github.com/dattgoswami/udagram-hosting) - complete
+[Project 4 - Hosting a Full Stack Application(Udagram) on AWS](https://github.com/dattgoswami/udagram-hosting) - complete
 
 [Syllabus](https://drive.google.com/file/d/1cwZ4PBpL2tchwZDI0UKvJtScfPpu0bcd/view?usp=sharing) - Node, Express, Postgres, Angular, AWS, CircleCI
