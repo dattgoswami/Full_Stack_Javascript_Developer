@@ -4,7 +4,7 @@
 
 [Project 2 - Build a Storefront Backend](https://github.com/dattgoswami/storefront-backend) - complete
 
-[Project 3 - My Store](https://github.com/dattgoswami/my-store) - complete
+[Project 3 - My Store - Angular](https://github.com/dattgoswami/my-store) - complete
 
 [Project 4 - Hosting a Full Stack Application(Udagram) on AWS](https://github.com/dattgoswami/udagram-hosting) - complete
 
